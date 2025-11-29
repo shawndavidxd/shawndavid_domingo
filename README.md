@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a dedicated BS Information Technology student
 
 ## 📜 Certifications  
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d733895265f04e76a355a3dccd17b518)
-- [NATIONAL CERTIFICATE II in Computer Systems Servicing](https://shawndavidxd.github.io/shawndavid_domingo/Files/NC2.pdf)
+- [NATIONAL CERTIFICATE II in Computer Systems Servicing](https://shawndavidxd.github.io/shawndavidsdomingo/Files/NC2.pdf)
 
 ## 🛠 Skill Sets  
 - **Programming:** Java, JavaScript  
