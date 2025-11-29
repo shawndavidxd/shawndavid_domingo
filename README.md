@@ -2,7 +2,7 @@
 
 **BS Information Technology Student | Aspiring Software Developer & Problem Solver**
 
-I'm a passionate and dedicated BS Information Technology student at New Era University with a strong interest in building efficient and meaningful software solutions. I thrive on the challenges of problem-solving and am committed to continuous learning in the ever-evolving tech landscape. Currently exploring app development and database management.
+I’m a passionate and dedicated BS Information Technology student at New Era University with a strong interest in building efficient and meaningful software solutions. I thrive on problem-solving challenges and am committed to continuous learning in the ever-evolving tech landscape. Currently exploring app development and database management.
 
 ## 🎓 Education  
 - **BS Information Technology**  
